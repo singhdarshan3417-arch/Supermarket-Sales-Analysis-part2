@@ -17,3 +17,43 @@ The core goal is to analyze supermarket sales data in Excel and build an interac
 •  How much variation exists in sales across product records?
 •  Which records have unusually high or low sales compared with most records?
 •  How does average sales performance differ across product categories, outlet types, and outlet locations?
+## Process
+Understand the dataset
+
+Identify columns such as sales, product category, outlet type, product visibility and fat content.
+
+
+
+Clean the data
+
+Remove duplicates, handle missing values, correct data types and check inconsistent entries.
+
+
+
+Perform data analysis
+
+Calculate total sales, average sales, category contributions and outlet performance.
+
+
+
+Perform statistical analysis
+
+Calculate mean, median, minimum, maximum, standard deviation and identify unusual sales values.
+
+
+
+Create charts and PivotTables
+
+Use Excel PivotTables, PivotCharts and formulas to summarize the results.
+
+
+
+Build an interactive dashboard
+
+Add KPI cards, charts, slicers and filters.
+
+
+
+Interpret the results
+
+Write insights and recommendations based on the actual data.
