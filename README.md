@@ -57,3 +57,7 @@ Add KPI cards, charts, slicers and filters.
 Interpret the results
 
 Write insights and recommendations based on the actual data.
+
+## Dashbord
+<img width="702" height="571" alt="Screenshot 2026-11-13 203938" src="https://github.com/user-attachments/assets/5c060875-efb3-41b0-986c-864ea729dd1f" />
+
